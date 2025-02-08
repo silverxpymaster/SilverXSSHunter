@@ -61,6 +61,7 @@ python silverxsshunter.py -u "http://hedefsayt.com" -p payloadlar.txt -o netice.
 ## Müəllif
 **SilverX**
 - Telegram: [t.me/silverxvip](https://t.me/silverxvip)
+- Youtube https://www.youtube.com/@silverxcyber
 
 ## Xəbərdarlıq
 Bu vasitə yalnız tədris və təhlükəsizlik məqsədləri üçün nəzərdə tutulub. Hədəf sistemlərində icazəsiz istifadə qanunsuzdur və cinayət məsuliyyəti yarada bilər. İstifadə etməzdən əvvəl mütləq icazə alın!
